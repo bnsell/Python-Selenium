@@ -9,4 +9,4 @@ PhantomTopSongs - Using PhantomJS headless browser(no GUI) to accumulate current
 ChromeCrawl - Experimenting with the chrome webdriver. Using xpaths and lambda find_element functions to successfully wait for specific page elements to load before appending values to csv.
 
 
-Credit to Chris Hawkes on YouTube for providing one-of-a-kind video tutorials and instructions to get started.
+Credit to Chris Hawkes on YouTube for providing one-of-a-kind video tutorials and instructions on getting started.
