@@ -13,6 +13,7 @@ action.perform()
 time.sleep(3)
 # this below ENTER is to rid of the above "i"
 action.send_keys(keys.Keys.ENTER)
+
 # inject the JavaScript
 action.send_keys("document.querySelectorAll('label.boxed')[1].click()"+keys.Keys.ENTER)
 action.perform()
